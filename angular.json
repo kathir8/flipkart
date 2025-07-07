@@ -32,7 +32,6 @@
               }
             ],
             "styles": [
-              "public/fonts/font.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles/bootstrap-overwrite.css",
               "src/styles.scss"
